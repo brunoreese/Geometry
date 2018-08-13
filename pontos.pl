@@ -106,7 +106,7 @@ my $b = $y1-($a*$x1);
 
     print ("the formula de $value1 é : $a (x) $b");
     # this is to calculate Y
-    # if i have X assis, what formula will i use to calculate the Y
+    # if i have X assis, which formula will i use to calculate the Y
     #XD
 
 
